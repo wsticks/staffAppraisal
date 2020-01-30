@@ -1,0 +1,7 @@
+package com.williams.appraisalcompany.model.Constant;
+
+public enum NotificationAction {
+    SIGN_UP, FORGOT_PASSWORD, PASSWORD_CHANGE, ADD_DELETE_USER,
+    LOGIN_ALERT, ADD_USER, TRANSACTION_DECLINED, API_CREDENTIAL_ALERT, TRANSACTION_SUCCESSFUL
+
+}
